@@ -1,0 +1,4 @@
+Login admin
+http://localhost/webkatalog/login
+username: admin
+password: admin
